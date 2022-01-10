@@ -2,8 +2,8 @@
 title: Pâte à pizza
 ...
 
-|[menus](/home/antoine/Documents/Menus/menu/html)|[recettes](/home/antoine/Documents/Menus/recipe/html)|
-|---|---|
+[menus](/menu.html)
+[recettes](/recipe.html)
 
 ## Ingrédients
 
