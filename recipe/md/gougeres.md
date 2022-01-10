@@ -2,8 +2,8 @@
 title: Gougères
 ...
 
-|[menus](/home/antoine/Documents/Menus/menu/html)|[recettes](/home/antoine/Documents/Menus/recipe/html)|
-|---|---|
+[menus](/home/antoine/Documents/Menus/menu/html)
+[recettes](/home/antoine/Documents/Menus/recipe/html)
 
 ## Ingrédients
 - 25cl d'eau
