@@ -1,2 +1,2 @@
-(Menus)["/AntoineLemarchand.github.io/menu/html/"]
-(Recettes)["/AntoineLemarchand.github.io/recipe/html/"]
+<a href="/AntoineLemarchand.github.io/menu/html/">Menus</a>
+<a href="/AntoineLemarchand.github.io/recipe/html/">Recettes</a>
