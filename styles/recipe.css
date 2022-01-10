@@ -1,0 +1,23 @@
+.title {
+	text-align:center;
+}
+
+
+h2 {
+	border-top: 1px solid black;
+	color: blue;
+}
+
+table, thead, th, tr {
+	width: 100%;
+}
+
+tr {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+tr a {
+	font-size: 2em;
+}
