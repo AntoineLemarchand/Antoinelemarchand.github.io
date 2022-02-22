@@ -16,14 +16,17 @@
  
 # 4ème arrondissement
 - La baguette du relais
-- 5ème arrondissement
+
+# 5ème arrondissement
 - Vanapril
 - Mexi&co
 - Nossa Churasqueira
-- 8ème arrondissement
+
+# 8ème arrondissement
 - Bar à brioche
 - Roomies
-- 9ème arrondissement
+
+# 9ème arrondissement
 - Mamiche
 - El nopal
 - Zicatela
