@@ -5,3 +5,4 @@ in markdown
 
 [Menus](/menu.html)
 [recette](/recipe)
+[Restaurant](/restaurant.html)
