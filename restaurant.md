@@ -45,6 +45,7 @@
 - Sain boulangerie (chocolatine amande)
 - La bécane à gaston (brunch à partager)
 - La taverne de Zhao
+- Wunderbar
 
 # 11ème arrondissement
 - Charlie et sa bière à deux balles
