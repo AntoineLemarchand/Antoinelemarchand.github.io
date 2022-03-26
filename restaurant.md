@@ -32,6 +32,7 @@
 - Zicatela
 - Aji dulce
 - Roomies
+- Cucina de mario (traiteur italien)
 
 # 10ème arrondissement
 - Bulliz choux
