@@ -8,6 +8,8 @@
 - Zicatela (enchiladas)
 - Riha Durum (+ lamacun)
 - Furahaa burger
+- Le p'tit vendôme (sandwich/brasserie)
+- Rôtisserie du gallopin (à emporter)
 
 # 3ème arrondissement
 - Le four du Marais (pizzas à emporter)
@@ -16,15 +18,20 @@
  
 # 4ème arrondissement
 - La baguette du relais
+- Miznon (sandwich)
 
 # 5ème arrondissement
 - Vanapril
 - Mexi&co
 - Nossa Churasqueira
 
+# 6ème arrondissement
+- Lebon authentique casse-croute
+
 # 8ème arrondissement
 - Bar à brioche
 - Roomies
+- Meatpacking burger
 
 # 9ème arrondissement
 - Mamiche
@@ -33,6 +40,11 @@
 - Aji dulce
 - Roomies
 - Cucina de mario (traiteur italien)
+- Paris Boca (pizzas argentines)
+- Les RDV italiens (piadines/menu midi)
+- Violetta et alfredo (brunch/menu midi/salon de thé)
+- Miznon (sandwich)
+- Black Sheep (bar/tapas/burger)
 
 # 10ème arrondissement
 - Bulliz choux
@@ -46,7 +58,9 @@
 - Sain boulangerie (chocolatine amande)
 - La bécane à gaston (brunch à partager)
 - La taverne de Zhao
-- Wunderbar
+- Wunderbar (allemande)
+- Princesse Café (tapas et sandwich)
+- Miznon (sandwich) 
 
 # 11ème arrondissement
 - Charlie et sa bière à deux balles
@@ -63,12 +77,15 @@
 - Lyoom cantine (tunisien)
 - Wings and chill
 - Colombia pan (choripan)
+- Ayahuma tunisien (menu midi)
+- Benti (sandwich tunisien)
 
 # 13ème arrondissement
 - Chez yaya (si réouvert)
 
 # 15ème arrondissement
-- Guillaume Grasso
+- Guillaume Grasso (pizzas napolitaines)
+- Meatpacking burger
 
 # 17ème arrondissement
 - Palermo
@@ -83,6 +100,10 @@
 - Chez pradel (menu midi)
 - B.O.U.L.O.M
 - Dessertissime
+- Crêperie octopus (menu midi)
+- Carafon (menu midi)
+- La main noire (brunch)
+- A nosa casa de gallicia (tapas 
  
 # 19ème arrondissement
 - Kiez
@@ -93,7 +114,11 @@
 - Super smash burger
 - Nabou Pastel
 - Basis (kebab)
-- Domicile Pizza (le bras)
+- Domicile Pizza (panini pizza le bras)
+- TDTF (bar)
+- Chez JJ (menu midi)
+- Le passage à niveau (menu midi)
+- Buns paris ourcq (smash burger)
 
 # 20ème arrondissement
 - Paloma
